@@ -4,6 +4,7 @@ This is a notes management app which fetch commands through terminal and parse i
 For stoage of data JASON file is used
 
 Commands - 
+
 #Adding notes
 node app.js --title="Heading 1" --body="This is a note"
 
