@@ -1,7 +1,7 @@
 # notesapp
 
-This is a notes management app which fetch commands through terminal and parse it through yargs npm module.
-For stoage of data JASON file is used
+This is a notes management app which fetches commands through terminal and parse it through yargs npm module.
+For storage of data JASON file is used.
 
 Commands - 
 
