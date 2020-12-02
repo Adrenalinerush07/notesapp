@@ -1,0 +1,5 @@
+should I add gitignore first ?
+no need. until you publishing packages on github or working with conflicting licensing
+gitignore not needed in personal projects so far.
+
+but nodemodule will be pushed too I guess
