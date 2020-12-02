@@ -5,14 +5,14 @@ For stoage of data JASON file is used
 
 Commands - 
 
-#Adding notes
+#Adding notes =>
 node app.js --title="Heading 1" --body="This is a note"
 
-#List of all notes
+#List of all notes =>
 node app.js listNotes
 
-#Reading noted of provided title
+#Reading notes of provided title =>
 node app.js read title
 
-#Removing notes of provided title
+#Removing notes of provided title =>
 node app.js remove title
